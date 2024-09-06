@@ -1,6 +1,6 @@
 const setpointDuration = .25;
 
-const songPath = 'songs/freezingrem.mp3';
+const songPath = 'songs/freezingRem.mp3';
 
 
 const volArr=[4, 3, 3, 2, 2, 3, 3, 4];
