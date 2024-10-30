@@ -1,6 +1,6 @@
 const setpointDuration = .25;
 
-const songPath = 'songs/Sonata_in_D_2.mp3';
+const songPath = 'songs/Genius_Frequency.mp3';
 
 
 const volArr=[4, 3, 3, 2, 2, 3, 3, 4];
